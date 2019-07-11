@@ -1,2 +1,2 @@
-# reddit_nlp_automod_backend
+# reddit automod backend
 Reddit NLP Auto Moderation Tool -- Backend
