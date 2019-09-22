@@ -1,2 +1,2 @@
 # reddit automod backend
-Reddit NLP Auto Moderation Tool -- Backend
+Backend of API service for Reddit Auto Moderator
